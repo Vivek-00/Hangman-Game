@@ -1,1 +1,1 @@
-# Hangman-Game. Nostalgia. Simple word game.
+# Hangman-Game. Simple word game.
